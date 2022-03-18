@@ -1,11 +1,11 @@
-class car {
+class mobil {
     var warna = ""
     var TahunProduksi = 0
 }
 
 fun main(){
     // Membuat object
-    val mobilku = car()
+    val mobilku = mobil()
 
     // Memanggil atribut dan memberi nilai
     mobilku.warna = "Biru"
