@@ -1,13 +1,13 @@
 class Fruit{
-    var fruit1 = "Apple"
-    var fruit2 = "Banana"
-    var fruit3 = "Mango"
+    var fruit1 = ""
+    var fruit2 = ""
+    var fruit3 = ""
 }
 
 class Car{
-    var car1 = "Volvo"
-    var car2 = "Audi"
-    var car3 = "Toyota"
+    var car1 = ""
+    var car2 = ""
+    var car3 = ""
 }
 
 fun main() {
